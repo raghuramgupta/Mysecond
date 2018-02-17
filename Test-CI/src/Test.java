@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("This is a new project");
 		System.out.println("This is a new job");
 		System.out.println("This is a new change");
+		System.out.println("This is an update from Eclipse");
 	}
 }
